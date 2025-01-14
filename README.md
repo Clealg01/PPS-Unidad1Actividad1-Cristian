@@ -198,3 +198,8 @@ A continuación, visualizaremos alguno de los proyectos de python para comprobar
     <img src="./images/Sugerencias_mejoras_de_codigo.png" alt="Sugerencias de mejoras en el código para unas buenas prácticas">
 </p>
 <p align="center"><em>Sugerencias de mejoras en el código para unas buenas prácticas</em></p>
+
+<p align="center">
+    <img src="./images/Calculadora_funcionando.png" alt="Código de la calculadora funcionando">
+</p>
+<p align="center"><em>Código de la calculadora funcionando</em></p>
